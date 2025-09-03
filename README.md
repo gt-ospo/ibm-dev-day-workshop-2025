@@ -9,7 +9,7 @@ Archival repository for slides for the IBM TechXchange Dev Day Workshop, Atlanta
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 10:00          |                                                              | *Breakfast and Registration*                                 |
 | 10:45          | **Jeffrey Young**, **Fang Liu** Directors, Open Source Program Office | Georgia Tech OSPO Introduction [slides]                      |
-| 10:45          | [**David Sherill**](https://seal.ae.gatech.edu/node/61) Professor; Interim Director of the Institute for Data Engineering and Science (IDEaS) | IDEaS Introduction [slides]                                  |
+| 10:45          | **David Sherill** Professor; Interim Director of the Institute for Data Engineering and Science (IDEaS) | IDEaS Introduction [slides]                                  |
 | 11:00          | **Brad Topol**                                               | Kick-off Open Source AI - TechXchange Dev Day                |
 | 11:45          | -                                                            | *Lunch*                                                      |
 | 12:30          | **BJ Hargrave**                                              | *Tutorial: IBM Granite*                                      |
