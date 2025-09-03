@@ -26,7 +26,8 @@ Archival repository for slides for the IBM TechXchange Dev Day Workshop, Atlanta
 
 | **Time (EDT)** | **Speaker**                                                  | **Title**                                                    |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 5:50           | **Jeffrey Young** Director, Open Source Program Office  **David Sherill** Professor, Interim Director, Institute for Data Engineering and Science (IDEaS) | GT Open Source AI Activities [Slides]                        |
+| 5:50           | **Jeffrey Young** Director, Open Source Program Office       | GT Open Source AI Activities [Slides]                        |
+|                | **David Sherill** Professor, Interim Director, Institute for Data Engineering and Science (IDEaS)   |                       |
 | 6:00           | **BJ Hargrave**                                              | Granite open source AI model [Slides]                        |
 | 6:10           | **Ming Zhao**                                                | Docling for document processing and parsing diverse formats [Slides] |
 | 6:20           | **Nathan Fulton**                                            | Generative programming with the Mellea Project [Slides]      |
